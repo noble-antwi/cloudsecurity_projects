@@ -1,0 +1,12 @@
+﻿version:v1.0,,,,,,,,,,,,,,,,
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+Jane Doe,jane.d@biira.store, myPassword1234, No,Jane,Doe,,,,,,,,,,,
+John Smith,john.s@biira.store, myPassword1234, No,John,Smith,,,,,,,,,,,
+"	Emily Jones",emily.j@biira.store, myPassword1234, No,Emily,Jones,,,,,,,,,,,
+"	Michael Brown",michael.b@biira.store, myPassword1234, No,Michael,Brown,,,,,,,,,,,
+Lucas Martin,lucas.m@biira.store, myPassword1234, No,Lucas,Martin,,,,,,,,,,,
+Sarah Taylor,sarah.t@biira.store, myPassword1234, No,Sarah,Taylor,,,,,,,,,,,
+David White,david.w@biira.store, myPassword1234, No,David,White,,,,,,,,,,,
+Katie Green,katie.g@biira.store, myPassword1234, No,Katie,Green,,,,,,,,,,,
+Chris Miller,chris.m@biira.store, myPassword1234, No,Chris,Miller,,,,,,,,,,,
+"	Olivia Evans",olivia.e@biira.store, myPassword1234, No,Olivia,Evans,,,,,,,,,,,
